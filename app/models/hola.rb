@@ -1,0 +1,2 @@
+class Hola < ApplicationRecord
+end
