@@ -1,0 +1,2 @@
+class Probando < ApplicationRecord
+end

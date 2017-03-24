@@ -1,0 +1,2 @@
+class Holanda < ApplicationRecord
+end
